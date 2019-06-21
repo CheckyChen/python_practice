@@ -107,18 +107,17 @@ import datetime
 
 
 def calc_time(text):
-    t1 = datetime.datetime.now()
-
     def decorator(func):
         @functools.wraps(func)
         def wrapper(*args, **kwargs):
+            t1 = datetime.datetime.now()
             print("%s(),运行中..." % func.__name__)
-            return func
+            f = func(*args, **kwargs)
+            t2 = datetime.datetime.now()
+            print("运行时间为:%s" % (t2 - t1).seconds)
+            return f
 
         return wrapper
-
-    t2 = datetime.datetime.now()
-    print("%s()运行时间为:%s" % ("", (t2 - t1).seconds))
 
     return decorator
 
