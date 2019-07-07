@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2958224-6f0e-46bd-946a-b0a6d4a3c0fe" name="Default Changelist" comment="使用__slots__">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="b2958224-6f0e-46bd-946a-b0a6d4a3c0fe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03.函数/3.01.定义函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/03.函数/3.01.定义函数.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -352,7 +350,7 @@
       <workItem from="1562193892462" duration="1293000" />
       <workItem from="1562250249107" duration="2584000" />
       <workItem from="1562424384852" duration="3884000" />
-      <workItem from="1562539079978" duration="604000" />
+      <workItem from="1562539079978" duration="843000" />
     </task>
     <task id="LOCAL-00001" summary="字符串和编码">
       <created>1560210216893</created>
@@ -557,7 +555,21 @@
       <option name="project" value="LOCAL" />
       <updated>1562427993492</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="函数">
+      <created>1562540091970</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1562540091970</updated>
+    </task>
+    <task id="LOCAL-00031" summary="vcs.xml、workspace.xml">
+      <created>1562540215532</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1562540215532</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -566,7 +578,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69139000" />
+    <option name="totallyTimeSpent" value="69378000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -621,8 +633,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="定义函数" />
-    <MESSAGE value="参数检查" />
     <MESSAGE value="函数参数" />
     <MESSAGE value="可变参数" />
     <MESSAGE value="递归函数" />
@@ -646,7 +656,9 @@
     <MESSAGE value="错误处理" />
     <MESSAGE value="调试" />
     <MESSAGE value="单元测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="单元测试" />
+    <MESSAGE value="函数" />
+    <MESSAGE value="vcs.xml、workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="vcs.xml、workspace.xml" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/homework$5_06_.coverage" NAME="5.06.匿名函数 Coverage Results" MODIFIED="1561041589648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.函数式编程" />
