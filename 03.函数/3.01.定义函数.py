@@ -83,9 +83,11 @@ def quadratic(a, b, c):
     if b**2 < 4*a*c:
         raise ValueError("数值错误！b的平方必须大于4ac")
 
-    x1 = -b + math.sqrt(b*b - 4 * a * c) / 2 * a
-    x2 = -b - math.sqrt(b*b - 4 * a * c) / 2 * a
+    x1 = (-b + math.sqrt(b*b - 4 * a * c)) / 2 * a
+    x2 = (-b - math.sqrt(b*b - 4 * a * c)) / 2 * a
     return x1, x2
 
-ret = quadratic(1,1,0)
+ret = quadratic(2,3,1)
 print(ret)
+
+print(math.sqrt(4))
