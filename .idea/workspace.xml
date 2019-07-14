@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b2958224-6f0e-46bd-946a-b0a6d4a3c0fe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10.IO编程/test.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,42 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08.面向对象高级编程/8.01.使用__slots__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2058">
-              <caret line="98" selection-start-line="98" selection-end-line="98" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08.面向对象高级编程/8.02.使用@property.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08.面向对象高级编程/8.03.多重继承.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1764">
-              <caret line="84" selection-start-line="84" selection-end-line="84" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08.面向对象高级编程/8.04.定制类.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1344">
-              <caret line="64" column="18" selection-start-line="64" selection-start-column="18" selection-end-line="64" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/08.面向对象高级编程/8.05.使用枚举类.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -87,11 +52,47 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/09.错误、调试、测试/9.03.单元测试.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="767">
+            <state relative-caret-position="1932">
               <caret line="92" column="40" selection-start-line="92" selection-start-column="40" selection-end-line="92" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10.IO编程/10.1.文件读写.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1701">
+              <caret line="81" column="20" selection-start-line="81" selection-start-column="20" selection-end-line="81" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10.IO编程/10.2.StringIO和BytesIO.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="798">
+              <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10.IO编程/10.2.操作文件和目录.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1260">
+              <caret line="60" column="9" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/10.IO编程/10.4.序列化.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="347">
+              <caret line="97" column="24" selection-start-line="97" selection-start-column="24" selection-end-line="97" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -150,12 +151,18 @@
         <option value="$PROJECT_DIR$/09.错误、调试、测试/9.01.错误处理.py" />
         <option value="$PROJECT_DIR$/09.错误、调试、测试/9.02.调试.py" />
         <option value="$PROJECT_DIR$/09.错误、调试、测试/9.03.单元测试.py" />
+        <option value="$PROJECT_DIR$/10.IO编程/test.txt" />
+        <option value="$PROJECT_DIR$/10.IO编程/test1.txt" />
+        <option value="$PROJECT_DIR$/10.IO编程/10.1.文件读写.py" />
+        <option value="$PROJECT_DIR$/10.IO编程/10.2.StringIO和BytesIO.py" />
+        <option value="$PROJECT_DIR$/10.IO编程/10.2.操作文件和目录.py" />
+        <option value="$PROJECT_DIR$/10.IO编程/10.4.序列化.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="940" />
-    <option name="y" value="126" />
+    <option name="x" value="256" />
+    <option name="y" value="180" />
     <option name="width" value="1040" />
     <option name="height" value="805" />
   </component>
@@ -184,10 +191,15 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/10.IO编程" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\python\working\homework\10.IO编程" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -201,8 +213,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in 9.03.单元测试.py">
-    <configuration name="8.05.使用枚举类" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.10.4.序列化">
+    <configuration name="10.1.文件读写" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,12 +222,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08.面向对象高级编程" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10.IO编程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08.面向对象高级编程/8.05.使用枚举类.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10.IO编程/10.1.文件读写.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -224,7 +236,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8.06.使用元类" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="10.2.操作文件和目录" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -232,12 +244,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08.面向对象高级编程" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10.IO编程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08.面向对象高级编程/8.06.使用元类.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10.IO编程/10.2.操作文件和目录.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -246,7 +258,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9.01.错误处理" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="10.2.StringIO和BytesIO" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -254,12 +266,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09.错误、调试、测试" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10.IO编程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09.错误、调试、测试/9.01.错误处理.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10.IO编程/10.2.StringIO和BytesIO.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -268,7 +280,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9.02.调试" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="10.4.序列化" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -276,12 +288,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09.错误、调试、测试" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10.IO编程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09.错误、调试、测试/9.02.调试.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10.IO编程/10.4.序列化.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -307,11 +319,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.10.4.序列化" />
+        <item itemvalue="Python.10.2.操作文件和目录" />
+        <item itemvalue="Python.10.2.StringIO和BytesIO" />
+        <item itemvalue="Python.10.1.文件读写" />
         <item itemvalue="Python tests.Unittests in 9.03.单元测试.py" />
-        <item itemvalue="Python.9.02.调试" />
-        <item itemvalue="Python.9.01.错误处理" />
-        <item itemvalue="Python.8.06.使用元类" />
-        <item itemvalue="Python.8.05.使用枚举类" />
       </list>
     </recent_temporary>
   </component>
@@ -350,7 +362,12 @@
       <workItem from="1562193892462" duration="1293000" />
       <workItem from="1562250249107" duration="2584000" />
       <workItem from="1562424384852" duration="3884000" />
-      <workItem from="1562539079978" duration="843000" />
+      <workItem from="1562539079978" duration="1666000" />
+      <workItem from="1562626471746" duration="1136000" />
+      <workItem from="1562711923035" duration="1434000" />
+      <workItem from="1562797679973" duration="2404000" />
+      <workItem from="1562884153947" duration="2309000" />
+      <workItem from="1563113499823" duration="219000" />
     </task>
     <task id="LOCAL-00001" summary="字符串和编码">
       <created>1560210216893</created>
@@ -569,7 +586,56 @@
       <option name="project" value="LOCAL" />
       <updated>1562540215532</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="workspace.xml">
+      <created>1562540263446</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1562540263446</updated>
+    </task>
+    <task id="LOCAL-00033" summary="文件读写">
+      <created>1562541000095</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1562541000095</updated>
+    </task>
+    <task id="LOCAL-00034" summary="文件读写">
+      <created>1562627552475</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1562627552475</updated>
+    </task>
+    <task id="LOCAL-00035" summary="文件读写">
+      <created>1562627574626</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1562627574626</updated>
+    </task>
+    <task id="LOCAL-00036" summary="StringIO和BytesIO">
+      <created>1562713726121</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1562713726121</updated>
+    </task>
+    <task id="LOCAL-00037" summary="操作文件和目录">
+      <created>1562800550121</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1562800550121</updated>
+    </task>
+    <task id="LOCAL-00038" summary="序列化">
+      <created>1562887017151</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1562887017152</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -578,17 +644,17 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69378000" />
+    <option name="totallyTimeSpent" value="77762000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26876676" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18364611" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.7591777" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5227606" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -633,11 +699,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="函数参数" />
-    <MESSAGE value="可变参数" />
-    <MESSAGE value="递归函数" />
-    <MESSAGE value="切片" />
-    <MESSAGE value="迭代" />
     <MESSAGE value="迭代器" />
     <MESSAGE value="函数式编程" />
     <MESSAGE value="匿名函数" />
@@ -658,12 +719,18 @@
     <MESSAGE value="单元测试" />
     <MESSAGE value="函数" />
     <MESSAGE value="vcs.xml、workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="vcs.xml、workspace.xml" />
+    <MESSAGE value="workspace.xml" />
+    <MESSAGE value="文件读写" />
+    <MESSAGE value="StringIO和BytesIO" />
+    <MESSAGE value="操作文件和目录" />
+    <MESSAGE value="序列化" />
+    <option name="LAST_COMMIT_MESSAGE" value="序列化" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/homework$5_06_.coverage" NAME="5.06.匿名函数 Coverage Results" MODIFIED="1561041589648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.函数式编程" />
     <SUITE FILE_PATH="coverage/homework$7_04_.coverage" NAME="7.04.继承和多态 Coverage Results" MODIFIED="1561418973415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.面向对象编程" />
     <SUITE FILE_PATH="coverage/homework$Unittests_in_9_03__py.coverage" NAME="Unittests in 9.03.单元测试.py Coverage Results" MODIFIED="1562427469431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09.错误、调试、测试" />
+    <SUITE FILE_PATH="coverage/homework$10_2_.coverage" NAME="10.2.操作文件和目录 Coverage Results" MODIFIED="1562800513719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.IO编程" />
     <SUITE FILE_PATH="coverage/homework$8_04_.coverage" NAME="8.04.定制类 Coverage Results" MODIFIED="1561775676910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08.面向对象高级编程" />
     <SUITE FILE_PATH="coverage/homework$4_01_.coverage" NAME="4.01.切片 Coverage Results" MODIFIED="1560899926082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04.高级特性" />
     <SUITE FILE_PATH="coverage/homework$5_01_.coverage" NAME="5.01.高阶函数 Coverage Results" MODIFIED="1560986354402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.函数式编程" />
@@ -674,8 +741,10 @@
     <SUITE FILE_PATH="coverage/homework$8_06_.coverage" NAME="8.06.使用元类 Coverage Results" MODIFIED="1562031612278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08.面向对象高级编程" />
     <SUITE FILE_PATH="coverage/homework$7_06_.coverage" NAME="7.06.实例属性和类属性 Coverage Results" MODIFIED="1561647811617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.面向对象编程" />
     <SUITE FILE_PATH="coverage/homework$8_02__property.coverage" NAME="8.02.使用@property Coverage Results" MODIFIED="1561771189739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08.面向对象高级编程" />
+    <SUITE FILE_PATH="coverage/homework$10_1_.coverage" NAME="10.1.文件读写 Coverage Results" MODIFIED="1562627519886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.IO编程" />
     <SUITE FILE_PATH="coverage/homework$4_05_.coverage" NAME="4.05.迭代器 Coverage Results" MODIFIED="1560985209505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04.高级特性" />
     <SUITE FILE_PATH="coverage/homework$8_05_.coverage" NAME="8.05.使用枚举类 Coverage Results" MODIFIED="1562027680473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08.面向对象高级编程" />
+    <SUITE FILE_PATH="coverage/homework$10_2_StringIOBytesIO.coverage" NAME="10.2.StringIO和BytesIO Coverage Results" MODIFIED="1562713666739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.IO编程" />
     <SUITE FILE_PATH="coverage/homework$5_07_.coverage" NAME="5.07.装饰器 Coverage Results" MODIFIED="1561074251929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.函数式编程" />
     <SUITE FILE_PATH="coverage/homework$2_02__list__tuple_.coverage" NAME="2.02.列表(list)和元组(tuple) Coverage Results" MODIFIED="1560435828989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02.python基础" />
     <SUITE FILE_PATH="coverage/homework$7_03_.coverage" NAME="7.03.访问限制 Coverage Results" MODIFIED="1561332905648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.面向对象编程" />
@@ -683,6 +752,7 @@
     <SUITE FILE_PATH="coverage/homework$7_02_.coverage" NAME="7.02.类和实例 Coverage Results" MODIFIED="1561331121955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.面向对象编程" />
     <SUITE FILE_PATH="coverage/homework$2_01_.coverage" NAME="2.01.字符串和编码 Coverage Results" MODIFIED="1560433898897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02.python基础" />
     <SUITE FILE_PATH="coverage/homework$9_02_.coverage" NAME="9.02.调试 Coverage Results" MODIFIED="1562426300508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09.错误、调试、测试" />
+    <SUITE FILE_PATH="coverage/homework$10_4_.coverage" NAME="10.4.序列化 Coverage Results" MODIFIED="1562885369083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.IO编程" />
     <SUITE FILE_PATH="coverage/homework$4_03_.coverage" NAME="4.03.列表生成式 Coverage Results" MODIFIED="1560984803019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04.高级特性" />
     <SUITE FILE_PATH="coverage/homework$3_03_.coverage" NAME="3.03.递归函数 Coverage Results" MODIFIED="1560867326464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03.函数" />
     <SUITE FILE_PATH="coverage/homework$2_03__dict__set_.coverage" NAME="2.03.字典(dict)和集合(set) Coverage Results" MODIFIED="1560468556830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02.python基础" />
@@ -854,6 +924,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/10.IO编程/test.txt" />
+    <entry file="file://$PROJECT_DIR$/10.IO编程/test1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.IO编程/test2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/08.面向对象高级编程/8.03.多重继承.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1764">
@@ -865,6 +950,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1344">
           <caret line="64" column="18" selection-start-line="64" selection-start-column="18" selection-end-line="64" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/os/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2237">
+          <caret line="856" column="4" selection-start-line="856" selection-start-column="4" selection-end-line="856" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -896,6 +988,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/09.错误、调试、测试/9.03.单元测试.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1932">
+          <caret line="92" column="40" selection-start-line="92" selection-start-column="40" selection-end-line="92" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.IO编程/10.1.文件读写.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1701">
+          <caret line="81" column="20" selection-start-line="81" selection-start-column="20" selection-end-line="81" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.IO编程/10.2.StringIO和BytesIO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.IO编程/10.2.操作文件和目录.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="60" column="9" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/03.函数/3.03.递归函数.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="672">
@@ -903,10 +1023,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/09.错误、调试、测试/9.03.单元测试.py">
+    <entry file="file://$PROJECT_DIR$/10.IO编程/10.4.序列化.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="767">
-          <caret line="92" column="40" selection-start-line="92" selection-start-column="40" selection-end-line="92" selection-end-column="40" />
+        <state relative-caret-position="347">
+          <caret line="97" column="24" selection-start-line="97" selection-start-column="24" selection-end-line="97" selection-end-column="24" />
         </state>
       </provider>
     </entry>
